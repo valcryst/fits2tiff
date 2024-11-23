@@ -27,7 +27,7 @@ options:
                           rggb     (Bayer-Pattern)
                           lrgb     (Luminance + RGB)
                           yuyv422  (YUYV 4:2:2)
-                          auto     (automatische Erkennung)```
+                          auto     (automatische Erkennung)
 ```
 Single file convert:  
 ```
